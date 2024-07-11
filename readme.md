@@ -8,7 +8,6 @@
       }),
       { expiresIn: 600 }
     );
-  });
   // configlib 
 
   // npm i @aws-sdk/client-s3
