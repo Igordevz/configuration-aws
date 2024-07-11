@@ -11,6 +11,8 @@
   // configlib 
 
   // npm i @aws-sdk/client-s3
+  // npm i @aws-sdk/client-s3
+
 
 import { S3Client } from "@aws-sdk/client-s3";
 
